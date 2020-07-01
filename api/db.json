@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "New Stream",
+      "description": "This is the new stream",
+      "id": 1
+    },
+    {
+      "title": "Hola",
+      "description": "bella ciao",
+      "userId": "110617674286250531328",
+      "id": 2
+    },
+    {
+      "title": "WatchIt",
+      "description": "This is a new stream",
+      "userId": "110617674286250531328",
+      "id": 3
+    }
+  ]
+}
